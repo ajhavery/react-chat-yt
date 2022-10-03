@@ -10,6 +10,7 @@
    3. npx tailwindcss init -p
    4. npm install --save react-toastify
    5. npm install react-tooltip react-icons
+   6. npm install react-lottie
 2. Backend packages
    1. npm install cors nodemon express socket.io dotenv
    2. npm install mongoose
