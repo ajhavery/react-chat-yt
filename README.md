@@ -18,3 +18,7 @@
    4. npm install express-async-handler
    5. npm install jsonwebtoken
    6. npm install body-parser
+
+# Output:
+
+<img width="1190" alt="image" src="https://user-images.githubusercontent.com/1153078/193649430-4bfcc6f6-b65f-42f8-b4c9-ba1b6c655cc3.png">
